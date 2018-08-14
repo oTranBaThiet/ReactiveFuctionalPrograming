@@ -1,0 +1,3 @@
+# Closure vs Function
+
+
